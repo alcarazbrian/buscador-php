@@ -22,7 +22,7 @@ Este es un proyecto de un buscador de películas desarrollado en PHP utilizando 
   - Paginación: La aplicación incluye un paginador para navegar entre los resultados de búsqueda.
 
 ## Deploy
-[![Zeabur](https://img.shields.io/badge/Zeabur-5C2D91.svg?style=for-the-badge&logoColor=white)](https://buscador-php.zeabur.app/)
+- **Deploy**: [buscadorpeliculas](https://buscadorpeliculas.000webhostapp.com/)
 
 Si te gusta el proyecto, ¡no olvides darle una estrella en GitHub! ⭐
 
