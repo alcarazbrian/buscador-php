@@ -9,6 +9,7 @@ Este es un proyecto de un buscador de películas desarrollado en PHP utilizando 
   - Bootswatch: Tema de Bootstrap utilizado para el diseño de la interfaz.
   - Programación Orientada a Objetos (POO): Paradigma de programación utilizado para estructurar el código.
   - API de TMDB: Fuente de datos para obtener información sobre las películas.
+  - ChatGPT: Asistente para sugerencias en la eficiencia del codigo.
 ## Funcionalidades
   - Búsqueda de películas: Permite buscar películas por nombre.
   - Detalles de películas: Muestra la siguiente información detallada de cada película:
